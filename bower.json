@@ -1,0 +1,9 @@
+{
+    "name": "{{ project_name }}",
+    "version": "0.0.0",
+    "private": true,
+    "license": "private",
+    "dependencies": {
+        "jquery": "1.11"
+    }
+}
