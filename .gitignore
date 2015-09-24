@@ -1,0 +1,7 @@
+.idea
+*.py[oc]
+__pycache__/
+*.iml
+node_modules
+bower_components
+static/build
